@@ -15,7 +15,6 @@
 +DeviceProfileNameAndTypes=iPhone5S,IOS
 +DeviceProfileNameAndTypes=iPodTouch5,IOS
 +DeviceProfileNameAndTypes=iPhone6,IOS
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 +DeviceProfileNameAndTypes=iPhone6Plus,IOS
 +DeviceProfileNameAndTypes=Android,Android
 +DeviceProfileNameAndTypes=PS4,PS4
@@ -32,7 +31,6 @@
 [Windows DeviceProfile]
 DeviceType=Windows
 BaseProfileName=
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 ; INSTRUCTIONS
 ; INSTRUCTIONS
 ; INSTRUCTIONS
@@ -40,7 +38,7 @@ BaseProfileName=
 ; INSTRUCTIONS
 ; INSTRUCTIONS
 
-; If you have a semi colon infront of the line of code it will disable it.           TEA OP OUT !
+; If you have a semi colon infront of the line of code it will disable it.           
 ; Every line of code needs +CVars=  infront of it to work.
 ;Make sure they have +CVars= before the code
 
@@ -55,8 +53,6 @@ BaseProfileName=
 ; Enable to remove water surface
 ; Warning: Also remove a lot of things (structure placement overlay, parasaur red detections, weapon projectiles, dino projectiles, loot crate beam, etc.)
 ;+CVars=ShowFlag.GameplayDebug=0
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 +CVars=FogDensity=0.0
 +CVars=ShowFlag.AtmosphericFog=0
 +CVars=ShowFlag.g=0
@@ -65,7 +61,6 @@ BaseProfileName=
 +CVars=ShowFlag.DepthOfField=0
 +CVars=ShowFlag.Pivot=0
 +CVars=ShowFlag.LevelColoration=0
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 +CVars=ShowFlag.LightComplexity=0
 +CVars=ShowFlag.LightFunctions=1
 +CVars=ShowFlag.Bounds=0
@@ -130,7 +125,6 @@ BaseProfileName=
 +CVars=r.PostProcessAAQuality=0
 +CVars=r.ReflectionEnvironment=0
 +CVars=r.RefractionQuality=0
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 +CVars=r.SSAOSmartBlur=0
 +CVars=r.SSR.Quality=0
 +CVars=r.SSS.Scale=0
@@ -172,7 +166,6 @@ BaseProfileName=
 +CVars=ShowFlag.VisualizeLPV=0
 +CVars=ShowFlag.VisualizeLightCulling=0
 +CVars=ShowFlag.VisualizeMotionBlur=0
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 +CVars=ShowFlag.VisualizeOutOfBoundsPixels=0
 +CVars=ShowFlag.VisualizeSSR=0
 +CVars=ShowFlag.VisualizeSenses=0
@@ -221,7 +214,6 @@ BaseProfileName=
 +CVars=ShowFlag.Editor=0
 +CVars=ShowFlag.EyeAdaptation=0
 +CVars=;ShowFlag.Fog=0
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 +CVars=ShowFlag.Game=0
 +CVars=ShowFlag.LOD=0
 +CVars=ShowFlag.Landscape=0
@@ -241,7 +233,6 @@ BaseProfileName=
 +CVars=ShowFlag.OnScreenDebug=0
 +CVars=ShowFlag.OverrideDiffuseAndSpecular=0
 +CVars=ShowFlag.Paper2DSprites=0
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 +CVars=ShowFlag.Particles=0
 +CVars=ShowFlag.Pivot=0
 +CVars=ShowFlag.PointLights=0
@@ -275,7 +266,6 @@ BaseProfileName=
 +CVars=ShowFlag.VectorFields=0
 +CVars=ShowFlag.VertexColors=0
 +CVars=ShowFlag.Vignette=0
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 +CVars=ShowFlag.VisualizeAdaptiveDOF=0
 +CVars=ShowFlag.VisualizeBuffer=0
 +CVars=ShowFlag.VisualizeDOF=0
@@ -439,7 +429,6 @@ BaseProfileName=
 +CVars=r.AmbientOcclusionLevels=1
 ; larger radius to compensate for fewer passes
 +CVars=r.AmbientOcclusionRadiusScale=2
-;method found by TEA OP  https://discord.gg/tUyDeUzXFs invite ur friends  punks
 
 [HTML5 DeviceProfile]
 DeviceType=HTML5
